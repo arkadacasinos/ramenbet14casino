@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ramenbet14casino.vercel.app/sitemap.xml
